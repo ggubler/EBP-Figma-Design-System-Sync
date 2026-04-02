@@ -1,4 +1,4 @@
-git clone https://github.com/ggobbler/EBP-Figma-Design-System-Sync.git
+git clone https://github.com/ggubbler/EBP-Figma-Design-System-Sync.git
 cd EBP-Figma-Design-System-Sync
 mkdir design-tokens
 touch design-tokens/.gitkeep

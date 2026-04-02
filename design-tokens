@@ -1,0 +1,16 @@
+# Clone your repository (or navigate to existing local copy)
+git clone https://github.com/your-org/your-repo.git
+cd your-repo
+
+# Create the design-tokens directory
+mkdir design-tokens
+
+# Create a .gitkeep file to track the directory
+touch design-tokens/.gitkeep
+
+# Stage and commit
+git add design-tokens/.gitkeep
+git commit -m "Create design-tokens directory"
+
+# Push to GitHub
+git push origin main

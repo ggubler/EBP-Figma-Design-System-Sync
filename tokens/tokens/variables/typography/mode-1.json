@@ -1,0 +1,346 @@
+{
+  "Typography": {
+    "material-theme": {
+      "display": {
+        "large": {
+          "Font Size": {
+            "value": 57,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 64,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": -0.25,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Playfair Display",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "medium": {
+          "Font Size": {
+            "value": 45,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 52,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Playfair Display",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "small": {
+          "Font Size": {
+            "value": 36,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 44,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Playfair Display",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        }
+      },
+      "headline": {
+        "large": {
+          "Font Size": {
+            "value": 32,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 40,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Playfair Display",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "medium": {
+          "Font Size": {
+            "value": 28,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 36,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Playfair Display",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "small": {
+          "Font Size": {
+            "value": 24,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 32,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Playfair Display",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        }
+      },
+      "body": {
+        "large": {
+          "Font Size": {
+            "value": 16,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 24,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0.5,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "medium": {
+          "Font Size": {
+            "value": 14,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 20,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0.25,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "small": {
+          "Font Size": {
+            "value": 12,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 16,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0.4000000059604645,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        }
+      },
+      "label": {
+        "large": {
+          "Font Size": {
+            "value": 14,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 20,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0.10000000149011612,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Medium",
+            "type": "string"
+          }
+        },
+        "medium": {
+          "Font Size": {
+            "value": 12,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 16,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0.5,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Medium",
+            "type": "string"
+          }
+        },
+        "small": {
+          "Font Size": {
+            "value": 11,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 16,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0.5,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Medium",
+            "type": "string"
+          }
+        }
+      },
+      "title": {
+        "large": {
+          "Font Size": {
+            "value": 22,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 28,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Regular",
+            "type": "string"
+          }
+        },
+        "medium": {
+          "Font Size": {
+            "value": 16,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 24,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0.15000000596046448,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Medium",
+            "type": "string"
+          }
+        },
+        "small": {
+          "Font Size": {
+            "value": 14,
+            "type": "float"
+          },
+          "Line Height": {
+            "value": 20,
+            "type": "float"
+          },
+          "Letter Spacing": {
+            "value": 0.10000000149011612,
+            "type": "float"
+          },
+          "Font Family": {
+            "value": "Inter",
+            "type": "string"
+          },
+          "Font Style": {
+            "value": "Medium",
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

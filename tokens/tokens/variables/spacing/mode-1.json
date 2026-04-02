@@ -1,0 +1,60 @@
+{
+  "Spacing": {
+    "none": {
+      "value": 0,
+      "type": "float"
+    },
+    "xxxxs": {
+      "value": 2,
+      "type": "float"
+    },
+    "xxxs": {
+      "value": 4,
+      "type": "float"
+    },
+    "xxs": {
+      "value": 8,
+      "type": "float"
+    },
+    "xs": {
+      "value": 12,
+      "type": "float"
+    },
+    "s": {
+      "value": 16,
+      "type": "float"
+    },
+    "m": {
+      "value": 24,
+      "type": "float"
+    },
+    "l": {
+      "value": 32,
+      "type": "float"
+    },
+    "xl": {
+      "value": 40,
+      "type": "float"
+    },
+    "xxl": {
+      "value": 48,
+      "type": "float"
+    },
+    "xxxl": {
+      "value": 56,
+      "type": "float"
+    },
+    "xxxxl": {
+      "value": 64,
+      "type": "float"
+    },
+    "xxxxxl": {
+      "value": 72,
+      "type": "float"
+    },
+    "xxxxxxl": {
+      "value": 80,
+      "type": "float"
+    }
+  }
+}

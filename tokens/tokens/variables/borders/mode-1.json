@@ -1,0 +1,20 @@
+{
+  "Borders": {
+    "None": {
+      "value": 0,
+      "type": "float"
+    },
+    "Thin": {
+      "value": 1,
+      "type": "float"
+    },
+    "Medium": {
+      "value": 2,
+      "type": "float"
+    },
+    "Thick": {
+      "value": 3,
+      "type": "float"
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "Elevation": {
+    "Level 0": {
+      "Blur": {
+        "value": 0,
+        "type": "float"
+      },
+      "Shadow 1": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 0,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 0,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 0,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      },
+      "Shadow 2": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 0,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 0,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 0,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      }
+    },
+    "Level 1": {
+      "Blur": {
+        "value": 1,
+        "type": "float"
+      },
+      "Shadow 1": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 1,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 2,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 0,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#0000004d",
+          "type": "color"
+        }
+      },
+      "Shadow 2": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 1,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 3,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 1,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#00000026",
+          "type": "color"
+        }
+      }
+    },
+    "Level 2": {
+      "Blur": {
+        "value": 3,
+        "type": "float"
+      },
+      "Shadow 1": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 1,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 2,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 0,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#0000004d",
+          "type": "color"
+        }
+      },
+      "Shadow 2": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 2,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 6,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 2,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#00000026",
+          "type": "color"
+        }
+      }
+    },
+    "Level 3": {
+      "Blur": {
+        "value": 6,
+        "type": "float"
+      },
+      "Shadow 1": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 1,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 3,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 0,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#0000004d",
+          "type": "color"
+        }
+      },
+      "Shadow 2": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 4,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 8,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 3,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#00000026",
+          "type": "color"
+        }
+      }
+    },
+    "Level 4": {
+      "Blur": {
+        "value": 8,
+        "type": "float"
+      },
+      "Shadow 1": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 2,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 4,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 0,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#0000004d",
+          "type": "color"
+        }
+      },
+      "Shadow 2": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 6,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 10,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 4,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#00000026",
+          "type": "color"
+        }
+      }
+    },
+    "Level 5": {
+      "Blur": {
+        "value": 12,
+        "type": "float"
+      },
+      "Shadow 1": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 4,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 4,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 0,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#0000004d",
+          "type": "color"
+        }
+      },
+      "Shadow 2": {
+        "X": {
+          "value": 0,
+          "type": "float"
+        },
+        "Y": {
+          "value": 8,
+          "type": "float"
+        },
+        "Blur": {
+          "value": 12,
+          "type": "float"
+        },
+        "Spread": {
+          "value": 6,
+          "type": "float"
+        },
+        "Color": {
+          "value": "#00000026",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
